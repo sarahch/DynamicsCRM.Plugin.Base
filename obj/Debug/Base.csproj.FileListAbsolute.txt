@@ -1,6 +1,0 @@
-D:\OneDrive\Projects\GitHub\DynamicsCRM\Plugin\Base\bin\Debug\Base.dll
-D:\OneDrive\Projects\GitHub\DynamicsCRM\Plugin\Base\bin\Debug\Base.pdb
-D:\OneDrive\Projects\GitHub\DynamicsCRM\Plugin\Base\bin\Debug\Microsoft.Xrm.Sdk.dll
-D:\OneDrive\Projects\GitHub\DynamicsCRM\Plugin\Base\bin\Debug\Microsoft.Xrm.Sdk.xml
-D:\OneDrive\Projects\GitHub\DynamicsCRM\Plugin\Base\obj\Debug\Base.dll
-D:\OneDrive\Projects\GitHub\DynamicsCRM\Plugin\Base\obj\Debug\Base.pdb
